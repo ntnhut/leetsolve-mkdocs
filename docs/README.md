@@ -1,5 +1,4 @@
-LeetSolve: C++ Solutions to LeetCode Challenges
-===============================================
+# LeetSolve: C++ Solutions to LeetCode Challenges
 
 Welcome to **LeetSolve**, a programming blog for **coding learners**.
 
