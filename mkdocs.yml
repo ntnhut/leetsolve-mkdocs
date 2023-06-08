@@ -2,6 +2,7 @@ site_name: LeetSolve
 theme:
   name: readthedocs
   highlightjs: true
+copyright: Copyright (c) 2023, Nhut Nguyen
 plugins:
   - search
   - mkdocstrings:
